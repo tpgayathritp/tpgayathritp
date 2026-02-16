@@ -20,21 +20,26 @@ Key Features
 
 This project reflects my passion for building practical, real‑world automation tools.
 
-Project Link: 
+Project Link: https://github.com/tpgayathritp/Payroll_system.git
 
 Technical Skills
 
 ### Programming & Databases
 - Oracle SQL, PL/SQL  
 - Oracle Applications R12  
-- Python (GUI, SQLite, automation)  
+- Python
 - Oracle 19C  
-- Jasper Reports  
+- Jasper Reports
+- PostgreSQL
+- Fast API
 
-### Tools & Platforms
-- Microsoft Azure Fundamentals  
-- Power BI  
-- Microsoft Office tools  
+### Devops & Tools
+- Docker
+- Jenkins CI/CD
+- GitHub
+- Azure Fundamentals
+- Power BI
+- Microsoft Office Tools
 
 ### Professional Strengths
 - Application Support  
@@ -43,3 +48,5 @@ Technical Skills
 - User Training  
 - Team Collaboration  
 - Agile Software Development Basics
+- CI/CD Pipeline
+
