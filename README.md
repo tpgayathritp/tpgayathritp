@@ -2,24 +2,25 @@ Hi, I'm Gayathri T. P
 Senior Software Engineer
 Location: Queensland, Australia  
 
-I’m a results‑driven Senior Software Engineer with 12+ years of experience in Oracle SQL, PL/SQL, Oracle Applications R12, and Application Support.  
-Recently, I’ve expanded my skill set into Python, building practical tools that combine business logic, databases, and user‑friendly interfaces.
-
+I am a results‑driven Senior Software Engineer with 12+ years of experience in Oracle SQL, PL/SQL, Oracle Applications R12, and Application Support.
+Recently, I’ve expanded into Python, FastAPI, Docker, PostgreSQL, and CI/CD pipelines, building automation systems that combine business logic, databases, and DevOps best practices.
 I enjoy solving real business problems, improving system performance, and delivering solutions that make life easier for end users and teams.
 
-Featured Project: Python Payroll Management System
-
-A complete desktop payroll application built using **Python, SQLite, Tkinter, PDF generation, and CSV reporting.
-
-- Tkinter GUI (Run Payroll, View Employees)  
-- SQLite database for employee and payroll data  
-- Automated payroll calculations (gross, net, tax, super, allowances, deductions)  
-- PDF payslip generation  
-- CSV summary reports  
-- Logging and error handling  
-- Clean, modular architecture  
+Featured Project: Payroll Processing System
+A complete, payroll processing application built using FastAPI, PostgreSQL, Docker, and Jenkins CI/CD.
+Key Features
+	• FastAPI 
+	• PostgreSQL database for employee & payroll data
+	• Automated payroll calculations (basic, net, tax, super, overtime)
+	• PDF payslip generation
+	• CSV payroll summary generation
+	• Logging & error handling
+	• Dockerized environment (API, DB, pgAdmin)
+  • Jenkins CI/CD pipeline for automated build & deployment
 
 This project reflects my passion for building practical, real‑world automation tools.
+
+Project Link: 
 
 Technical Skills
 
