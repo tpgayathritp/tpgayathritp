@@ -8,6 +8,7 @@ I enjoy solving real business problems, improving system performance, and delive
 
 Featured Project: Payroll Processing System
 A complete, payroll processing application built using FastAPI, PostgreSQL, Docker, and Jenkins CI/CD.
+
 Key Features
 	• FastAPI 
 	• PostgreSQL database for employee & payroll data
@@ -16,7 +17,7 @@ Key Features
 	• CSV payroll summary generation
 	• Logging & error handling
 	• Dockerized environment (API, DB, pgAdmin)
-  • Jenkins CI/CD pipeline for automated build & deployment
+    • Jenkins CI/CD pipeline for automated build & deployment
 
 This project reflects my passion for building practical, real‑world automation tools.
 
