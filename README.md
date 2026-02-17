@@ -10,7 +10,7 @@ Featured Project: Payroll Processing System
 A complete, payroll processing application built using FastAPI, PostgreSQL, Docker, and Jenkins CI/CD.
 
 Key Features
----------------
+
 	- FastAPI 
 	- PostgreSQL database for employee & payroll data
 	- Automated payroll calculations (basic, net, tax, super, overtime)
