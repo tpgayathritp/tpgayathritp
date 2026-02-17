@@ -11,14 +11,14 @@ A complete, payroll processing application built using FastAPI, PostgreSQL, Dock
 
 Key Features
 ---------------
-	• FastAPI 
-	• PostgreSQL database for employee & payroll data
-	• Automated payroll calculations (basic, net, tax, super, overtime)
-	• PDF payslip generation
-	• CSV payroll summary generation
-	• Logging & error handling
-	• Dockerized environment (API, DB, pgAdmin)
-    • Jenkins CI/CD pipeline for automated build & deployment
+	- FastAPI 
+	- PostgreSQL database for employee & payroll data
+	- Automated payroll calculations (basic, net, tax, super, overtime)
+	- PDF payslip generation
+	- CSV payroll summary generation
+	- Logging & error handling
+	- Dockerized environment (API, DB, pgAdmin)
+    - Jenkins CI/CD pipeline for automated build & deployment
 
 This project reflects my passion for building practical, real‑world automation tools.
 
