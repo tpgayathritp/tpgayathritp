@@ -52,6 +52,22 @@ Professional Strengths
 - Agile Software Development Basics
 - CI/CD Pipeline
 
+Other Projects
+------------------
+Python Payroll App with Azure CI/CD
+
+A desktop payroll application built using Python, Tkinter, SQLite, PDF generation, and CSV reporting, fully integrated with Azure DevOps CI/CD.
+Features:
+- Tkinter GUI (Run Payroll, View Employees)
+- SQLite database
+- Automated payroll calculations
+- PDF payslip generation
+- CSV summary reports
+- Logging and error handling
+- Azure DevOps CI pipeline (build + artifact publishing)
+
+Github Repo: https://github.com/tpgayathritp/Python-Payroll-App.git
+
 Connect with Me
 ------------------
 - LinkedIn: www.linkedin.com/in/gayathri-tp-557bb4116
