@@ -25,7 +25,7 @@ This project reflects my passion for building practical, real‑world automation
 Project Link: https://github.com/tpgayathritp/Payroll_system.git
 
 Technical Skills
-
+-------------------
 Programming & Databases
 - Oracle SQL, PL/SQL  
 - Oracle Applications R12  
@@ -53,6 +53,7 @@ Professional Strengths
 - CI/CD Pipeline
 
 Connect with Me
+------------------
 - LinkedIn: www.linkedin.com/in/gayathri-tp-557bb4116
 - Location: Gold Coast, QLD, Australia
 
