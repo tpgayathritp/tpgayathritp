@@ -24,7 +24,7 @@ Project Link: https://github.com/tpgayathritp/Payroll_system.git
 
 Technical Skills
 
-### Programming & Databases
+Programming & Databases
 - Oracle SQL, PL/SQL  
 - Oracle Applications R12  
 - Python
@@ -33,7 +33,7 @@ Technical Skills
 - PostgreSQL
 - Fast API
 
-### Devops & Tools
+Devops & Tools
 - Docker
 - Jenkins CI/CD
 - GitHub
@@ -41,7 +41,7 @@ Technical Skills
 - Power BI
 - Microsoft Office Tools
 
-### Professional Strengths
+Professional Strengths
 - Application Support  
 - Incident Management  
 - Code Debugging  
@@ -49,4 +49,8 @@ Technical Skills
 - Team Collaboration  
 - Agile Software Development Basics
 - CI/CD Pipeline
+
+Connect with Me
+- LinkedIn: www.linkedin.com/in/gayathri-tp-557bb4116
+- Location: Gold Coast, QLD, Australia
 
