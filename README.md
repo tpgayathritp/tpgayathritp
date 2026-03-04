@@ -1,75 +1,157 @@
-Hi, I am Gayathri T. P  
-Senior Software Engineer
-Location: Queensland, Australia  
+Hi, I'm Gayathri T. P
 
-I am a results‑driven Senior Software Engineer with 12+ years of experience in Oracle SQL, PL/SQL, Oracle Applications R12, and Application Support.
-Recently, I’ve expanded into Python, FastAPI, Docker, PostgreSQL, and CI/CD pipelines, building automation systems that combine business logic, databases, and DevOps best practices.
-I enjoy solving real business problems, improving system performance, and delivering solutions that make life easier for end users and teams.
+Senior Software Engineer | Python | Data Engineering | Oracle | Airflow | PostgreSQL**
+📍 Gold Coast, Queensland, Australia
 
-Featured Project: Payroll Processing System
-A complete, payroll processing application built using FastAPI, PostgreSQL, Docker, and Jenkins CI/CD.
+---
+
+About Me
+
+I am a results-driven Senior Software Engineer with 12+ years of experience in:
+
+* Oracle SQL & PL/SQL
+* Oracle Applications R12
+* Enterprise Application Support
+* Incident & SLA-driven production environments
+
+Recently, I have expanded into Python-based backend and data engineering technologies, building containerized, automated systems using:
+
+* Python
+* FastAPI
+* PostgreSQL
+* Apache Airflow
+* Docker
+* CI/CD Pipelines (Jenkins & Azure DevOps)
+
+I enjoy solving real business problems, optimizing systems, and designing automation workflows that combine business logic, databases, and DevOps best practices.
+
+---
+
+Featured Project
+
+Payroll Processing System
+
+🔗 GitHub: https://github.com/tpgayathritp/Payroll_system.git
+
+A production-style payroll processing application built using FastAPI, PostgreSQL, Docker, and Jenkins CI/CD.
 
 Key Features
 
-	- FastAPI 
-	- PostgreSQL database for employee & payroll data
-	- Automated payroll calculations (basic, net, tax, super, overtime)
-	- PDF payslip generation
-	- CSV payroll summary generation
-	- Logging & error handling
-	- Dockerized environment (API, DB, pgAdmin)
-    - Jenkins CI/CD pipeline for automated build & deployment
+* REST API built with FastAPI
+* PostgreSQL database for employee & payroll data
+* Automated payroll calculations:
 
-This project reflects my passion for building practical, real‑world automation tools.
+  * Basic salary
+  * Net salary
+  * Tax
+  * Superannuation
+  * Overtime
+* PDF payslip generation
+* CSV payroll summary generation
+* Structured logging & error handling
+* Dockerized multi-container setup (API + DB + pgAdmin)
+* Jenkins CI/CD pipeline for automated build & deployment
 
-Project Link: https://github.com/tpgayathritp/Payroll_system.git
+This project reflects my ability to design and implement real-world backend systems with DevOps automation.
+
+---
+
+Data Engineering Project
+
+Airflow ETL Pipeline – Bronze, Silver, Gold Architecture
+
+A containerized ETL pipeline built using:
+
+* Apache Airflow (CeleryExecutor)
+* PostgreSQL
+* SQLAlchemy
+* Docker & Redis
+
+Highlights:
+
+* Implemented Bronze → Silver → Gold warehouse layers
+* Orchestrated ETL workflows using Airflow DAGs
+* Automated schema creation and data transformation
+* Resolved container networking & volume persistence issues
+* Built production-style modular ETL functions
+
+This project demonstrates hands-on experience in data orchestration, SQL transformations, and containerized pipelines.
+
+---
 
 Technical Skills
--------------------
 Programming & Databases
-- Oracle SQL, PL/SQL  
-- Oracle Applications R12  
-- Python
-- Oracle 19C  
-- Jasper Reports
-- PostgreSQL
-- Fast API
 
-Devops & Tools
-- Docker
-- Jenkins CI/CD
-- GitHub
-- Azure Fundamentals
-- Power BI
-- Microsoft Office Tools
+* Python
+* Oracle SQL, PL/SQL
+* Oracle 19c
+* PostgreSQL
+* SQLite
+* SQLAlchemy
+* FastAPI
 
-Professional Strengths
-- Application Support  
-- Incident Management  
-- Code Debugging  
-- User Training  
-- Team Collaboration  
-- Agile Software Development Basics
-- CI/CD Pipeline
+Data & Reporting
 
-Other Projects
-------------------
+* Apache Airflow
+* ETL Design
+* Jasper Reports
+* Power BI
+
+DevOps & Tools
+
+* Docker
+* Jenkins CI/CD
+* Azure DevOps CI/CD
+* Git & GitHub
+* Azure Fundamentals
+
+---
+
+Other Project
+
 Python Payroll App with Azure CI/CD
 
-A desktop payroll application built using Python, Tkinter, SQLite, PDF generation, and CSV reporting, fully integrated with Azure DevOps CI/CD.
+🔗 GitHub: https://github.com/tpgayathritp/Python-Payroll-App.git
+
+Desktop payroll application built using:
+
+* Python (Tkinter GUI)
+* SQLite
+* PDF generation
+* CSV reporting
+* Logging & error handling
+* Azure DevOps CI pipeline (build + artifact publishing)
+
 Features:
-- Tkinter GUI (Run Payroll, View Employees)
-- SQLite database
-- Automated payroll calculations
-- PDF payslip generation
-- CSV summary reports
-- Logging and error handling
-- Azure DevOps CI pipeline (build + artifact publishing)
 
-Github Repo: https://github.com/tpgayathritp/Python-Payroll-App.git
+* Run Payroll
+* View Employees
+* Automated salary calculations
+* CI pipeline integration
 
-Connect with Me
-------------------
-- LinkedIn: www.linkedin.com/in/gayathri-tp-557bb4116
-- Location: Gold Coast, QLD, Australia
+---
 
+Professional Strengths
+
+* Application Support & Incident Management
+* Production Issue Debugging
+* SLA & KPI-driven environments
+* User Training & Client Support
+* Agile Collaboration
+* Continuous Improvement Mindset
+
+---
+
+Connect With Me
+
+🔗 LinkedIn: [www.linkedin.com/in/gayathri-tp-557bb4116](http://www.linkedin.com/in/gayathri-tp-557bb4116)
+📍 Gold Coast, Queensland, Australia
+
+---
+
+Always open to opportunities in:
+
+* Data Engineering
+* Backend Python Development
+* Application Support (Modern Stack)
+* Oracle + Python Hybrid Roles
