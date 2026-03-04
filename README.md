@@ -1,6 +1,6 @@
 Hi, I'm Gayathri T. P
 
-Senior Software Engineer | Python | Data Engineering | Oracle | Airflow | PostgreSQL**
+Senior Software Engineer | Python | Data Engineering | Oracle | Airflow | PostgreSQL
 📍 Gold Coast, Queensland, Australia
 
 ---
